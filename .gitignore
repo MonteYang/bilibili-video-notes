@@ -2,5 +2,6 @@ __pycache__/
 *.pyc
 *_transcript.md
 *_notes.md
+!examples/*_notes.md
 .venv/
 docs/
