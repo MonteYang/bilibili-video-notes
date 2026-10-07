@@ -2,6 +2,7 @@
 name: bilibili-video-notes
 license: MIT
 compatibility: "Claude Code / Cursor / Hermes Agent / 任何支持 Agent Skills 的助手"
+description: 用户提供B站视频链接，要求做笔记、总结、转录或提取内容时。CC字幕提取（零依赖）→无字幕时本地Whisper转录→Agent撰写结构化学习笔记。
 when_to_use: 用户提供B站视频链接，要求做笔记、总结、转录或提取内容时
 ---
 
